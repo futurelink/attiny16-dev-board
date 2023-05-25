@@ -9,8 +9,7 @@ I also placed MAX3485 to support RS-485 line which can be switched back to CH340
 via USB (or even both can be disconnected if not needed).
 
 A few images below:
-![Render](Render-Pictude.JPG)
+![Render](Render-Picture.JPG)
 
 Dimansions are here:
-
-![Dimensions](Dimensions-Pictude.JPG)
+![Dimensions](Dimensions-Picture.JPG)
